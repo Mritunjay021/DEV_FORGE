@@ -112,9 +112,8 @@ flowchart TD
 ---
 
 ## 🙌 Credits & License
-- Built by Dev Prasad Narayan Patra
+- Built by Mritunjay Rai
 - Powered by OpenRouter, MongoDB, Render Redis, Next.js, Express, Tailwind CSS
-- MIT License
 
 
 
